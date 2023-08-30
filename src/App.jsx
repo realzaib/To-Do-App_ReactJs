@@ -7,23 +7,8 @@ import TodoList from './components/TodoList'
 const data1 = [
   {
     id:1,
-    task: "Update Windows",
-    taskNote: "Ajj hi karn na hai lazami argent hai warna khair nahi ap ki",
-  },
-  {
-    id:2,
-    task: "Update Windows",
-    taskNote: "Ajj hi karn na hai lazami argent hai warna khair nahi ap ki",
-  },
-  {
-    id:3,
-    task: "Update Windows",
-    taskNote: "Ajj hi karn na hai lazami argent hai warna khair nahi ap ki",
-  },
-  {
-    id:4,
-    task: "Update Windows",
-    taskNote: "Ajj hi karn na hai lazami argent hai warna khair nahi ap ki",
+    task: "Default Task",
+    taskNote: "I am default task",
   },
 ];
 
